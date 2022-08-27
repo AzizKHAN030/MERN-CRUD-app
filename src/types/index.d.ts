@@ -8,3 +8,5 @@ declare global {
     interface Request {}
   }
 }
+
+declare module "bcrypt";
